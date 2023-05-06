@@ -1,0 +1,99 @@
+.f {
+    color: pink;
+}
+header {
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 70px;
+}
+.u{
+    color: darkmagenta;
+    background-color: lightpink;
+    padding: 1px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    color: lightpink;
+    background-color: palevioletred;
+    border-radius: 50px;
+}
+.y {
+    color: lightskyblue;
+    background-color: lightpink;
+}
+.j {
+    color: mediumvioletred;
+    background-color: mediumorchid;
+    padding: 5px;
+}
+.pink{
+    border: 10px papayawhip;
+}
+.tt{
+    text-align: center;
+    color: pink;
+    background-color: plum;
+}
+.date{
+    color: rebeccapurple;
+    background-color: #f3aff3;
+}
+h2{
+    text-align: center;
+    color: #7a225b;
+    background-color: rgb(176, 115, 168);
+    padding: 10px;
+    text-transform: capitalize;
+}  
+.yu{
+    text-align: center;
+    color: burlywood;
+    background-color: lightcoral;
+    margin: 15px;
+}
+.ttt {
+    color: rgb(215, 138, 183);
+    background-color: #f3aff3;
+    text-align: center;
+}
+main{
+    background-color: plum;
+    border-radius: 80px;
+    padding: 20px;
+}
+.uuu{
+    color: yellow;
+    background-color: tomato;
+    border-radius: 0px
+}
+.jjj{
+    background-color: #7a225b;
+    border-radius: 0px;
+}
+.qqq{
+    background-color: hsl(343, 76%, 68%);
+    border-radius: 0px;
+}
+.mmm{
+    color: black;
+    background-color: #7a225b;
+    border-radius: 0px;
+}
+.yty{
+    color: black;
+    background-color: blueviolet;
+    border-radius: 0px;
+}
+footer{
+    color: white;
+    background-color: violet;
+    font-family: fantasy;
+
+
+
+
+
+
+    
+    
